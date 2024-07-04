@@ -1,4 +1,4 @@
-# leetcode-practice
+# Daily Leetcode Practice
 Solving leetcode questions daily for my coding practice
 
 <!---LeetCode Topics Start-->
