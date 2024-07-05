@@ -12,6 +12,7 @@ Solving leetcode questions daily for my coding practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -35,4 +36,12 @@ Solving leetcode questions daily for my coding practice
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
