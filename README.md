@@ -67,4 +67,8 @@ Solving leetcode questions daily for my coding practice
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
