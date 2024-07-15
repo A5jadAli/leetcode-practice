@@ -7,6 +7,7 @@ Solving leetcode questions daily for my coding practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
@@ -35,6 +36,7 @@ Solving leetcode questions daily for my coding practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 ## Greedy
