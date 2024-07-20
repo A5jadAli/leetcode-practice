@@ -1,5 +1,5 @@
 # Daily Leetcode Practice
-Solving leetcode questions daily for my coding practice
+Solving leetcode questions daily for my coding practice. Happy Learning!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
