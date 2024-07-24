@@ -7,6 +7,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
@@ -47,6 +48,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 ## Design
 |  |
@@ -62,10 +64,12 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
@@ -79,4 +83,8 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/A5jadAli/leetcode-practice/tree/master/0969-number-of-recent-calls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
