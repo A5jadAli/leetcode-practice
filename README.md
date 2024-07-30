@@ -24,12 +24,14 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/A5jadAli/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -84,6 +86,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
 ## Data Stream
 |  |
@@ -96,6 +99,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
