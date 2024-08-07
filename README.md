@@ -6,6 +6,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A5jadAli/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A5jadAli/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/A5jadAli/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -49,6 +51,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A5jadAli/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
