@@ -12,3 +12,8 @@ class Solution:
                 r -= 1
         
         return maxx
+
+        '''
+        time complexity = O(n)
+        space complexity = constant or O(1)
+        '''
