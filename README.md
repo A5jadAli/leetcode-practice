@@ -32,6 +32,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/A5jadAli/leetcode-practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/A5jadAli/leetcode-practice/tree/master/0125-valid-palindrome) |
