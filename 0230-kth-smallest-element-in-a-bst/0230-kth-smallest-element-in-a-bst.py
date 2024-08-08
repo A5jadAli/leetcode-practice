@@ -18,4 +18,7 @@ class Solution:
 
         inorder(root)
         return self.result[k-1]
+
+        '''inorder traversal will give us sorted array
+           and then we can return kth element from that array'''
         
