@@ -17,7 +17,7 @@ class Solution():
         for char in s:
             if not char.isdigit():
                 break
-            num = num*10 + int(char)
+            num = num*10 + int(char) # whenever you want to convert str to int, this formula will be used
 
         num *= sign
         num = max(min(num, 2**31-1), -2**31)
