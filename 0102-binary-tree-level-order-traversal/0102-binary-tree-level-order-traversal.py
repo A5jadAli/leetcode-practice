@@ -23,7 +23,7 @@ class Solution:
                 if node.right:
                     queue.append(node.right)
                     temp.append(node.right.val)
-
-            ans.append(temp)
+            if temp != []:
+                ans.append(temp)
         
-        return ans[:-1]
+        return ans
