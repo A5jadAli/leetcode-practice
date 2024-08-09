@@ -110,6 +110,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/A5jadAli/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
@@ -117,6 +118,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/A5jadAli/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
@@ -130,6 +132,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/A5jadAli/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
