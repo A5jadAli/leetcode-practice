@@ -1,7 +1,7 @@
 class MyHashSet:
 
     def __init__(self):
-        self.data = [False] * 1000001
+        self.data = defaultdict(int)
 
     def add(self, key: int) -> None:
         self.data[key] = True
