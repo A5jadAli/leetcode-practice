@@ -116,6 +116,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/A5jadAli/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
@@ -124,6 +125,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/A5jadAli/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
@@ -131,6 +133,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/A5jadAli/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -138,6 +141,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/A5jadAli/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
