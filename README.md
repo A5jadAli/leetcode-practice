@@ -17,6 +17,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0941-sort-array-by-parity](https://github.com/A5jadAli/leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
