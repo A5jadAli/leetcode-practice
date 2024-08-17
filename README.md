@@ -105,6 +105,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
+| [2748-calculate-delayed-arrival-time](https://github.com/A5jadAli/leetcode-practice/tree/master/2748-calculate-delayed-arrival-time) |
 ## Data Stream
 |  |
 | ------- |
