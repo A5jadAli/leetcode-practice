@@ -9,6 +9,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0011-container-with-most-water](https://github.com/A5jadAli/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0319-bulb-switcher](https://github.com/A5jadAli/leetcode-practice/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
@@ -170,4 +172,8 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/A5jadAli/leetcode-practice/tree/master/0319-bulb-switcher) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
