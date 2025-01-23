@@ -7,6 +7,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/A5jadAli/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/A5jadAli/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
@@ -50,6 +51,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/A5jadAli/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/A5jadAli/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
@@ -67,6 +69,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/A5jadAli/leetcode-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
