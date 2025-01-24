@@ -14,6 +14,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
@@ -27,12 +28,14 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## String
