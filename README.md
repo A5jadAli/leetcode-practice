@@ -23,6 +23,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Stack
 |  |
@@ -50,6 +51,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0344-reverse-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Two Pointers
 |  |
@@ -184,4 +186,8 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
