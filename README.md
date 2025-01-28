@@ -68,6 +68,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0344-reverse-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/A5jadAli/leetcode-practice/tree/master/0941-sort-array-by-parity) |
+| [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0319-bulb-switcher](https://github.com/A5jadAli/leetcode-practice/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/A5jadAli/leetcode-practice/tree/master/2748-calculate-delayed-arrival-time) |
 ## Data Stream
 |  |
@@ -183,6 +185,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/A5jadAli/leetcode-practice/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 ## Matrix
 |  |
 | ------- |
