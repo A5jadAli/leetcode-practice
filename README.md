@@ -11,6 +11,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/A5jadAli/leetcode-practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/A5jadAli/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -78,6 +80,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/A5jadAli/leetcode-practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
@@ -97,6 +100,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
