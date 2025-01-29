@@ -185,6 +185,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
+| [1765-merge-in-between-linked-lists](https://github.com/A5jadAli/leetcode-practice/tree/master/1765-merge-in-between-linked-lists) |
 ## Hash Function
 |  |
 | ------- |
