@@ -14,6 +14,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/A5jadAli/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -83,6 +84,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/A5jadAli/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/A5jadAli/leetcode-practice/tree/master/0941-sort-array-by-parity) |
 ## Design
@@ -102,6 +104,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/A5jadAli/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
