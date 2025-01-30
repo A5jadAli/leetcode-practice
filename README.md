@@ -57,6 +57,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Counting
 |  |
@@ -117,6 +119,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +149,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
+| [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
