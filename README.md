@@ -17,6 +17,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0217-contains-duplicate](https://github.com/A5jadAli/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
@@ -120,6 +121,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 ## Math
 |  |
