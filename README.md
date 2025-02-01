@@ -20,6 +20,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
@@ -35,6 +36,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
@@ -42,6 +44,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
