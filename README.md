@@ -11,6 +11,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/A5jadAli/leetcode-practice/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
@@ -138,6 +139,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
