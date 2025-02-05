@@ -65,6 +65,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0344-reverse-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
+| [0953-reverse-only-letters](https://github.com/A5jadAli/leetcode-practice/tree/master/0953-reverse-only-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -86,6 +87,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/A5jadAli/leetcode-practice/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/A5jadAli/leetcode-practice/tree/master/0953-reverse-only-letters) |
 | [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
