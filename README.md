@@ -25,6 +25,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/A5jadAli/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
@@ -41,6 +42,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/A5jadAli/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
@@ -248,4 +250,8 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/A5jadAli/leetcode-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
