@@ -90,6 +90,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/A5jadAli/leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/A5jadAli/leetcode-practice/tree/master/0953-reverse-only-letters) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/A5jadAli/leetcode-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -221,6 +222,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
 | [1765-merge-in-between-linked-lists](https://github.com/A5jadAli/leetcode-practice/tree/master/1765-merge-in-between-linked-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/A5jadAli/leetcode-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
 |  |
 | ------- |
