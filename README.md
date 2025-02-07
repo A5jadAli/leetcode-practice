@@ -157,6 +157,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/A5jadAli/leetcode-practice/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/A5jadAli/leetcode-practice/tree/master/2748-calculate-delayed-arrival-time) |
@@ -176,6 +177,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0136-single-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
 |  |
