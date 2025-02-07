@@ -54,6 +54,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
+| [2288-count-operations-to-obtain-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## String
 |  |
@@ -159,6 +160,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
+| [2288-count-operations-to-obtain-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/A5jadAli/leetcode-practice/tree/master/2748-calculate-delayed-arrival-time) |
 ## Data Stream
