@@ -151,6 +151,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/A5jadAli/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 ## Math
@@ -263,4 +264,8 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/A5jadAli/leetcode-practice/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/A5jadAli/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
