@@ -26,6 +26,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/A5jadAli/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/A5jadAli/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
@@ -256,6 +257,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/A5jadAli/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Heap (Priority Queue)
 |  |
