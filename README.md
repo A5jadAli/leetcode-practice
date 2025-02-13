@@ -18,6 +18,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/A5jadAli/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/A5jadAli/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0088-merge-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/A5jadAli/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/A5jadAli/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
@@ -156,6 +158,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/A5jadAli/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/A5jadAli/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
