@@ -51,6 +51,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [3447-clear-digits](https://github.com/A5jadAli/leetcode-practice/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
 | [2288-count-operations-to-obtain-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/A5jadAli/leetcode-practice/tree/master/3447-clear-digits) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/A5jadAli/leetcode-practice/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
