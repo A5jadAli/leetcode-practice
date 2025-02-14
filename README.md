@@ -84,6 +84,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/A5jadAli/leetcode-practice/tree/master/3447-clear-digits) |
+| [3636-check-balanced-string](https://github.com/A5jadAli/leetcode-practice/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
 | ------- |
