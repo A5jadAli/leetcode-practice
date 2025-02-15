@@ -18,6 +18,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/A5jadAli/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A5jadAli/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/A5jadAli/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -44,6 +45,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/A5jadAli/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -173,6 +175,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/A5jadAli/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/A5jadAli/leetcode-practice/tree/master/0319-bulb-switcher) |
