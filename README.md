@@ -17,6 +17,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0049-group-anagrams](https://github.com/A5jadAli/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/A5jadAli/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/A5jadAli/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/A5jadAli/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A5jadAli/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -287,4 +288,8 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/A5jadAli/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/A5jadAli/leetcode-practice/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
