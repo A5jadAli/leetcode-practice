@@ -41,6 +41,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/A5jadAli/leetcode-practice/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/A5jadAli/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Stack
@@ -64,6 +65,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/A5jadAli/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/A5jadAli/leetcode-practice/tree/master/3447-clear-digits) |
@@ -84,6 +86,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/A5jadAli/leetcode-practice/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/A5jadAli/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/A5jadAli/leetcode-practice/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
