@@ -26,6 +26,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0217-contains-duplicate](https://github.com/A5jadAli/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/A5jadAli/leetcode-practice/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
@@ -61,6 +62,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/A5jadAli/leetcode-practice/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/A5jadAli/leetcode-practice/tree/master/0874-backspace-string-compare) |
@@ -269,6 +271,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
+| [0289-game-of-life](https://github.com/A5jadAli/leetcode-practice/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/A5jadAli/leetcode-practice/tree/master/0733-flood-fill) |
 ## String Matching
 |  |
