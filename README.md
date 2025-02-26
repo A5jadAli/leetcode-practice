@@ -27,6 +27,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/A5jadAli/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/A5jadAli/leetcode-practice/tree/master/0289-game-of-life) |
+| [0419-battleships-in-a-board](https://github.com/A5jadAli/leetcode-practice/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
@@ -243,6 +244,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0199-binary-tree-right-side-view](https://github.com/A5jadAli/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/A5jadAli/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/A5jadAli/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0419-battleships-in-a-board](https://github.com/A5jadAli/leetcode-practice/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/A5jadAli/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/A5jadAli/leetcode-practice/tree/master/0733-flood-fill) |
 | [1254-deepest-leaves-sum](https://github.com/A5jadAli/leetcode-practice/tree/master/1254-deepest-leaves-sum) |
@@ -281,6 +283,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0048-rotate-image](https://github.com/A5jadAli/leetcode-practice/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/A5jadAli/leetcode-practice/tree/master/0289-game-of-life) |
+| [0419-battleships-in-a-board](https://github.com/A5jadAli/leetcode-practice/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/A5jadAli/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/A5jadAli/leetcode-practice/tree/master/0733-flood-fill) |
 ## String Matching
