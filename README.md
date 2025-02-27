@@ -186,6 +186,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0067-add-binary](https://github.com/A5jadAli/leetcode-practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/A5jadAli/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/A5jadAli/leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/A5jadAli/leetcode-practice/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0507-perfect-number) |
@@ -211,6 +212,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0136-single-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/A5jadAli/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/A5jadAli/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/A5jadAli/leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
@@ -319,4 +321,8 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/A5jadAli/leetcode-practice/tree/master/0695-max-area-of-island) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/A5jadAli/leetcode-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
