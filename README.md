@@ -45,6 +45,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [1651-shuffle-string](https://github.com/A5jadAli/leetcode-practice/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/A5jadAli/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/A5jadAli/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/A5jadAli/leetcode-practice/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/A5jadAli/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Stack
@@ -138,6 +139,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/A5jadAli/leetcode-practice/tree/master/0941-sort-array-by-parity) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/A5jadAli/leetcode-practice/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Design
 |  |
 | ------- |
