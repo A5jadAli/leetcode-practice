@@ -29,6 +29,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0289-game-of-life](https://github.com/A5jadAli/leetcode-practice/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/A5jadAli/leetcode-practice/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/A5jadAli/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/A5jadAli/leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -54,6 +55,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0020-valid-parentheses](https://github.com/A5jadAli/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/A5jadAli/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/A5jadAli/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/A5jadAli/leetcode-practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/A5jadAli/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/A5jadAli/leetcode-practice/tree/master/0739-daily-temperatures) |
@@ -162,6 +164,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0268-missing-number](https://github.com/A5jadAli/leetcode-practice/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/A5jadAli/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/A5jadAli/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
@@ -313,6 +316,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/A5jadAli/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/A5jadAli/leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
