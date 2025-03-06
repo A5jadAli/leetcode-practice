@@ -202,6 +202,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2288-count-operations-to-obtain-zero](https://github.com/A5jadAli/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/A5jadAli/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/A5jadAli/leetcode-practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [2748-calculate-delayed-arrival-time](https://github.com/A5jadAli/leetcode-practice/tree/master/2748-calculate-delayed-arrival-time) |
 ## Data Stream
 |  |
