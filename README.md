@@ -40,6 +40,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/A5jadAli/leetcode-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/A5jadAli/leetcode-practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/A5jadAli/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0917-boats-to-save-people](https://github.com/A5jadAli/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/A5jadAli/leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/A5jadAli/leetcode-practice/tree/master/0983-validate-stack-sequences) |
@@ -150,6 +151,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/A5jadAli/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/A5jadAli/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/A5jadAli/leetcode-practice/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -169,6 +171,7 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 | [0442-find-all-duplicates-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/A5jadAli/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/A5jadAli/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/A5jadAli/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/A5jadAli/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/A5jadAli/leetcode-practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -282,12 +285,14 @@ Solving leetcode questions daily for my coding practice. Happy Learning!
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/A5jadAli/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1765-merge-in-between-linked-lists](https://github.com/A5jadAli/leetcode-practice/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/A5jadAli/leetcode-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/A5jadAli/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/A5jadAli/leetcode-practice/tree/master/0817-design-hashmap) |
 ## Brainteaser
 |  |
 | ------- |
